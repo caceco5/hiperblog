@@ -1,10 +1,14 @@
 body
 {
+<<<<<<< HEAD
     color: #333;
 <<<<<<< HEAD
     text-align: left;
     font-family: "Courier";
 =======
+=======
+    color: rgb(32, 218, 202);
+>>>>>>> cabecera
     text-align: center;
     font-family: Arial;
     font-size: 16px;
