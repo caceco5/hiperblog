@@ -7,5 +7,6 @@ Un blog increible para el curso Git y Github de platzi.
 * Todos los comandos de git.
 * El flujo de trabajo en Github.
 * El verdadero amor por las buenas prácticas.
+* Creado por el increíble Caceco5.
 
 Y como amable recordatorio: **Este readme.md es un chiste**. Diseñado para el ejemplo. Si llegas acá NO TE LO TOMES EN SERIO y mejor ve a [**ver el curso**](https://platzi.com/clases/1557-git-github/19977-readmemd-es-una-excelente-practica/).
